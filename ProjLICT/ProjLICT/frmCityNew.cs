@@ -62,7 +62,7 @@ namespace ProjLICT
                 }
                 finally
                 {
-                    cn.Close(); //finally is not mendatory id we just write the code cn.close only it will also work because after all it will com to an end!!
+                    cn.Close(); //finally is not mendatory if we just write the code cn.close only it will also work because after all it will com to an end!!
                 }
             }
             else

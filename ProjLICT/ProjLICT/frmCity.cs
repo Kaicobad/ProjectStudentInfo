@@ -28,7 +28,7 @@ namespace ProjLICT
         {
             this.Cursor = Cursors.WaitCursor;
 
-            System.Data.SqlClient.SqlConnection cn = new System.Data.SqlClient.SqlConnection();
+            SqlConnection cn = new SqlConnection();
             cn.ConnectionString = ProjLICT.Properties.Settings.Default.MyCon;
             cn.Open();
 
