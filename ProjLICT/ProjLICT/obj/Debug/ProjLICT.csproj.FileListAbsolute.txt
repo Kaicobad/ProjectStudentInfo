@@ -1,0 +1,13 @@
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\LICT\ProjLICT\ProjLICT\bin\Debug\ProjLICT.exe.config
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\LICT\ProjLICT\ProjLICT\bin\Debug\ProjLICT.exe
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\LICT\ProjLICT\ProjLICT\bin\Debug\ProjLICT.pdb
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\LICT\ProjLICT\ProjLICT\obj\Debug\ProjLICT.csprojResolveAssemblyReference.cache
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\LICT\ProjLICT\ProjLICT\obj\Debug\ProjLICT.frmMain.resources
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\LICT\ProjLICT\ProjLICT\obj\Debug\ProjLICT.Properties.Resources.resources
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\LICT\ProjLICT\ProjLICT\obj\Debug\ProjLICT.csproj.GenerateResource.Cache
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\LICT\ProjLICT\ProjLICT\obj\Debug\ProjLICT.exe
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\LICT\ProjLICT\ProjLICT\obj\Debug\ProjLICT.pdb
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\LICT\ProjLICT\ProjLICT\obj\Debug\ProjLICT.frmBrand.resources
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\LICT\ProjLICT\ProjLICT\obj\Debug\ProjLICT.frmCity.resources
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\LICT\ProjLICT\ProjLICT\obj\Debug\ProjLICT.frmUnit.resources
+C:\Users\Dark\Documents\Visual Studio 2013\Projects\LICT\ProjLICT\ProjLICT\obj\Debug\ProjLICT.frmCityNew.resources
