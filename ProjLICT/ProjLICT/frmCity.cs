@@ -34,7 +34,13 @@ namespace ProjLICT
 
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = cn;
-            cmd.CommandText = " select id, name from city";
+            cmd.CommandText = " select id, name from city where admin = 0";
+
+
+            if (txtSearch.Text != "")
+            {
+                cmd.CommandText += " and name like '%" + txtSearch.Text + "%' ";
+            }
 
 
             DataSet ds = new DataSet();
@@ -46,6 +52,11 @@ namespace ProjLICT
             dgvData.DataSource = ds.Tables[0];
 
             this.Cursor = Cursors.Default;
+        }
+
+        private void frmCity_Load(object sender, EventArgs e)
+        {
+            this.MinimumSize = this.Size;
         }
     }
 }

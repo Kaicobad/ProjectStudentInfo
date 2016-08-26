@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+
 namespace ProjLICT
 {
     public partial class frmCityNew : Form
@@ -30,15 +31,14 @@ namespace ProjLICT
 
             if (txtName.Text == "") // if (txtName.Text == String.Empty) same as  if (txtName.Text == "")
             {
-
                 er++;
                 msg += "Name required\n";
-
             }
+
             if (er == 0)
             {
 
-                System.Data.SqlClient.SqlConnection cn = new System.Data.SqlClient.SqlConnection();
+                SqlConnection cn = new SqlConnection();
                 cn.ConnectionString = ProjLICT.Properties.Settings.Default.MyCon;
                 cn.Open();
 

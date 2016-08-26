@@ -1,0 +1,15 @@
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\bin\Debug\TestLICT2.exe.config
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\bin\Debug\TestLICT2.exe
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\bin\Debug\TestLICT2.pdb
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\obj\Debug\TestLICT2.csprojResolveAssemblyReference.cache
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\obj\Debug\TestLICT2.Form1.resources
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\obj\Debug\TestLICT2.Properties.Resources.resources
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\obj\Debug\TestLICT2.csproj.GenerateResource.Cache
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\obj\Debug\TestLICT2.exe
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\obj\Debug\TestLICT2.pdb
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\obj\Debug\TestLICT2.frmMain.resources
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\obj\Debug\TestLICT2.frmCity.resources
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\obj\Debug\TestLICT2.frmBrand.resources
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\obj\Debug\TestLICT2.frmUnit.resources
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\obj\Debug\TestLICT2.frmCatagory.resources
+c:\users\dark\documents\visual studio 2013\Projects\TestLICT2\TestLICT2\obj\Debug\TestLICT2.frmProduct.resources
